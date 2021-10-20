@@ -1,2 +1,2 @@
-# HTML-website
-HTML website for school (ignore plz)
+HTML-website as project for school (IGNORE PLEASE)
+
